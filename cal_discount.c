@@ -9,7 +9,7 @@ void main()
 
     // Input
     printf("Enter price :");
-    scanf("%d", &price);
+    scanf("%d",&price);
 
     // Process
     discount = price * 15 / 100;
