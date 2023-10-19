@@ -1,11 +1,8 @@
 // create a function to print factors for the given number
-
 #include <stdio.h>
-
 
 void main()
 {
-
     factors(1245);
     printf("\nThe End!");
 
